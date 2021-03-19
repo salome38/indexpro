@@ -1,0 +1,376 @@
+.p
+{   position:absolute;
+	top:1px;
+	left:480px;
+	width:600px;
+    height:750px;
+    background: red;
+  
+}
+.raya
+{ position:absolute;
+	top:1px;
+	left:100px;
+	width:400px;
+    height:5px;
+    background: yellow;}
+
+
+    .raya2
+{ position:absolute;
+	top:740px;
+	left:100px;
+	width:400px;
+    height:5px;
+    background: yellow;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .chile{ position:absolute;
+	top:300px;
+	left:520px;
+	width:40px;
+    height:40px;
+    border-radius: 200px;
+    border:solid 1px white;
+    z-index: 12;
+    background: url(chile.png);
+    background-size: cover;}
+
+    .colombia{ position:absolute;
+		top:340px;
+	left:520px;
+	width:40px;
+    height:40px;
+     border-radius: 200px;
+    border:solid 1px white;
+    z-index: 13;
+    background: url(colo.png);
+   background-size: cover;}
+
+    .bolivia{ position:absolute;
+		top:380px;
+	left:520px;
+	width:40px;
+    height:40px;
+     border-radius: 200px;
+    border:solid 1px white;
+    z-index: 14;
+    background: url(boli.png);
+   background-size: cover;}
+
+    .ecuador{ position:absolute;
+	top:420px;
+	left:520px;
+	width:40px;
+    height:40px;
+     border-radius: 200px;
+    border:solid 1px white;
+    z-index: 15;
+    background: url(ecua.png);
+   background-size: cover;}
+
+    .para{ position:absolute;
+	top:460px;
+	left:520px;
+	width:40px;
+    height:40px;
+    border-radius: 200px;
+    border:solid 1px white;
+    z-index: 16;
+    background: url(paray.png);
+ background-size: cover;}
+
+    .uruguai{ position:absolute;
+	top:500px;
+	left:520px;
+	width:40px;
+    height:40px;
+    border-radius: 200px;
+    border:solid 1px white;
+    z-index: 17;
+    background:url(uru.png);
+   background-size: cover;}
+
+
+
+
+
+
+
+
+
+
+
+.gitara{position:absolute;
+	top:400px;
+	left:180px;
+	width:333px;
+    height:359px;
+    z-index: 8;
+    background:url(gitarra.png);
+   background-size: cover;
+transform: rotate(+260deg);}
+
+
+.tambor{position:absolute;
+	top:300px;
+	left:100px;
+	width:350px;
+    height:300px;
+    z-index: 7;
+    background:url(tambor.png);
+   background-size: cover;}
+
+
+.silvato{position:absolute;
+	top:300px;
+	left:200px;
+	width:100px;
+    height:100px;
+    z-index: 7;
+    background:url(silva.png);
+   background-size: cover;}
+
+
+
+
+
+
+   .oja1{position:absolute;
+	top:50px;
+	left:1px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+transform: rotate(+100deg);}
+
+
+
+
+
+   .oja2{position:absolute;
+	top:100px;
+	left:1px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+   transform: rotate(+70deg);}
+
+
+
+
+   .oja3{position:absolute;
+	top:200px;
+	left:1px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+transform: rotate(+93deg);}
+
+
+   .oja4{position:absolute;
+	top:300px;
+	left:1px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+transform: rotate(+90deg);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .oja21{position:absolute;
+	top:50px;
+	left:400px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+transform: rotate(-100deg);}
+
+
+
+
+
+
+
+
+   .oja22{position:absolute;
+	top:100px;
+	left:400px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+   transform: rotate(-70deg);}
+
+
+
+
+   .oja23{position:absolute;
+	top:200px;
+	left:400px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+transform: rotate(-93deg);}
+
+
+   .oja24{position:absolute;
+	top:300px;
+	left:400px;
+	width:200px;
+    height:200px;
+    z-index: 1;
+    background:url(palmera.png);
+   background-size: cover;
+transform: rotate(-90deg);}
+
+
+
+
+@font-face{font-family:hoy;
+	src:url(Valentime.otf);}
+
+	@font-face{font-family:salo;
+	src:url(Roman.ttf);}
+	@font-face{font-family:tu;
+	src:url(Prisma.otf);}
+
+
+
+
+.letra4{position:absolute;
+	top:20px;
+	left:200px;
+	width:200px;
+    height:198px;
+   color: white;
+   text-align:justify;
+   font-family:tu;
+   font-size: 30px; }
+
+
+
+.letra{
+
+   position:absolute;
+	top:100px;
+	left:200px;
+	width:200px;
+    height:198px;
+   color: white;
+   text-align:justify;
+   font-family:hoy;
+   font-size: 52px; 
+
+
+}
+
+.letra1{
+
+   position:absolute;
+	top:70px;
+	left:160px;
+	width:300px;
+    height:100px;
+   color: white;
+   text-align:justify;
+   font-family:salo;
+   font-size: 20px;
+   color: yellow;}
+
+   .letra2{
+
+   position:absolute;
+	top:250px;
+	left:200px;
+	width:266px;
+    height:300px;
+   color: white;
+   font-family:salo;
+   font-size: 20px;
+   color: yellow;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
