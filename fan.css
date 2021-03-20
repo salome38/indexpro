@@ -48,6 +48,18 @@
     background: url(chile.png);
     background-size: cover;}
 
+   .chilet{
+	position:absolute;
+	top:302px;
+	left:480px;
+	width:30px;
+    height:10px;
+   color: white;
+     z-index: 16;
+ 
+
+   }
+
     .colombia{ position:absolute;
 		top:340px;
 	left:520px;
@@ -58,6 +70,17 @@
     z-index: 13;
     background: url(colo.png);
    background-size: cover;}
+
+   .colombiat{
+	position:absolute;
+	top:342px;
+	left:460px;
+	width:30px;
+    height:10px;
+   color: white;
+     z-index: 16;
+
+   }
 
     .bolivia{ position:absolute;
 		top:380px;
@@ -70,6 +93,18 @@
     background: url(boli.png);
    background-size: cover;}
 
+
+   .boliviat{
+	position:absolute;
+	top:382px;
+	left:460px;
+	width:30px;
+    height:10px;
+   color: white;
+     z-index: 16;
+
+   }
+
     .ecuador{ position:absolute;
 	top:420px;
 	left:520px;
@@ -80,6 +115,18 @@
     z-index: 15;
     background: url(ecua.png);
    background-size: cover;}
+
+
+   .ecuadort{
+	position:absolute;
+	top:422px;
+	left:460px;
+	width:30px;
+    height:10px;
+   color: white;
+     z-index: 16;
+
+   }
 
     .para{ position:absolute;
 	top:460px;
@@ -92,6 +139,19 @@
     background: url(paray.png);
  background-size: cover;}
 
+   .parat{
+	position:absolute;
+	top:462px;
+	left:460px;
+	width:30px;
+    height:10px;
+   color: white;
+     z-index: 16;
+
+   }
+
+
+
     .uruguai{ position:absolute;
 	top:500px;
 	left:520px;
@@ -102,6 +162,17 @@
     z-index: 17;
     background:url(uru.png);
    background-size: cover;}
+
+
+   .uruguait{
+	position:absolute;
+	top:502px;
+	left:460px;
+	width:30px;
+    height:10px;
+   color: white;
+  z-index: 16;
+   }
 
 
 
@@ -552,14 +623,59 @@ transform: rotate(-90deg);}
 
 .texto{
 	position:absolute;
-	top:680px;
-	left:321px;
-	width:20px;
-    height:20px;
-   color: white;
+	top:500px;
+	left:50px;
+	width:100px;
+    height:30px;
+   color: yellow;
    font-family:tu;
    font-size: 20px;
-   color: pink;}
+
+   }
+
+   .textof{
+	position:absolute;
+	top:525px;
+	left:40px;
+	width:100px;
+    height:30px;
+    background: yellow;
+      border-radius: 10px;
+    border:solid 1px yellow;
+     font-family:tu;
+   font-size: 20px;
+
+
+   }
+   
+
+   .texto2{
+	position:absolute;
+	top:564px;
+	left:50px;
+	width:30px;
+    height:100px;
+   color: yellow;
+   font-family:tu;
+   font-size: 10px;
+
+   }
+
+
+
+
+
+
+
+
+
+
+   
+
+   
+
+
+
 
 
 
